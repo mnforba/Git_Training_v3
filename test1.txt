@@ -1,3 +1,4 @@
 Testing how to creat branch and push to github
 
 modification being done
+this is comparison lecture
